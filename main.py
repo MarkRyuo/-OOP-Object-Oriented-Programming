@@ -1,2 +1,4 @@
 
-# * 
+# * Variable 
+
+username = "Jhon Mark"
