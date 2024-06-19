@@ -1,8 +1,8 @@
 
 # * Variable 
 
-username = "Jhon Mark" # * String/ 
-age = 21 #* Integer 
+username = "Jhon Mark" # * String/ str 
+age = 21 #* Integer / Int 
 Online = True # * Boolean 
 
 # * Arithmetic 
