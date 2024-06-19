@@ -2,4 +2,5 @@
 # * Variable 
 
 username = "Jhon Mark" # * String 
-age = 
+age = 21 #* Integer 
+Online = 
