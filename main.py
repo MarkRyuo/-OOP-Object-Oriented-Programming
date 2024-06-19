@@ -10,4 +10,5 @@ Online = True # * Boolean
 # * Addition + 
 # * Multiplication  *
 # * Subtraction - 
-
+# * Division / 
+# * 
