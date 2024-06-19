@@ -1,4 +1,5 @@
 
 # * Variable 
 
-username = "Jhon Mark"
+username = "Jhon Mark" # * String 
+age = 
