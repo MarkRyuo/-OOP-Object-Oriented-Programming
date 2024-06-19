@@ -7,3 +7,4 @@ Online = True # * Boolean
 
 # * Arithmetic 
 
+add
