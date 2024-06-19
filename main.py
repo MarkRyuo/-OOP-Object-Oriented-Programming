@@ -1,7 +1,7 @@
 
 # * Variable 
 
-username = "Jhon Mark" # * String 
+username = "Jhon Mark" # * String/ 
 age = 21 #* Integer 
 Online = True # * Boolean 
 
