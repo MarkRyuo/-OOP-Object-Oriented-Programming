@@ -7,4 +7,7 @@ Online = True # * Boolean
 
 # * Arithmetic 
 
-add
+# * Addition + 
+# * Multiplication  *
+# * Subtraction - 
+
