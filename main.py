@@ -27,8 +27,3 @@ while username == "Jhon Mark"
 
 
 
-
-
-
-
-
