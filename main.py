@@ -38,6 +38,7 @@ def while_loop() :
                 break
         else :
             print(f"LOL {username}")
+            break
 
 
 
