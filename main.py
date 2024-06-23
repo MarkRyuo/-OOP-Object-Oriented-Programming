@@ -30,12 +30,16 @@ def while_loop() :
 
     username = input("Enter your name: ")
     
-    while username == "Jhon Mark" :
+    while True :
+
         if username :
+            if username == "Jhon Mark"
             print(f"Hello {username}") # * 'f' String 
             break
         else :
             print(f"LOL {username}")
+
+
 
 while_loop()
         
