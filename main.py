@@ -45,5 +45,3 @@ def while_loop() :
 while_loop()
         
 
-
-
