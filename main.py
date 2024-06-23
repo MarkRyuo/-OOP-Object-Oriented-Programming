@@ -22,9 +22,11 @@ password = "JM01" # * Complex
 #* 
 
 
+# * condition 
+
 while username == "Jhon Mark" :
     if username :
-        
+
 
 
 
