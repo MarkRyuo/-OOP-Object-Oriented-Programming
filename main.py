@@ -47,5 +47,3 @@ while_loop()
 
 
 
-
-
