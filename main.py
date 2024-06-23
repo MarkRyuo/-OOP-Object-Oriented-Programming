@@ -33,8 +33,10 @@ def while_loop() :
     while username == "Jhon Mark" :
         if username :
             print(f"Hello {username}") # * 'f' String 
+            break
         else :
-            print("LOL")
+            print(f"LOL {username}")
+        
 
 
 
