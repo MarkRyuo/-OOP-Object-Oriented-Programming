@@ -28,11 +28,13 @@ password = "JM01" # * Complex
 
 def while_loop() :
 
-while username == "Jhon Mark" :
-    if username :
-        print(f"Hello {username}") # * 'f' String 
-    else :
-        print("LOL")
+    username = input("Enter your name: ")
+    
+    while username == "Jhon Mark" :
+        if username :
+            print(f"Hello {username}") # * 'f' String 
+        else :
+            print("LOL")
 
 
 
