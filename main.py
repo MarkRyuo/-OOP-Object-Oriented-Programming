@@ -26,7 +26,7 @@ password = "JM01" # * Complex
 # * If / else / elif statement 
 
 
-
+def while_loop() :
 
 while username == "Jhon Mark" :
     if username :
