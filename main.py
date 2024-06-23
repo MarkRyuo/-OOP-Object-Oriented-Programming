@@ -28,6 +28,8 @@ password = "JM01" # * Complex
 while username == "Jhon Mark" :
     if username :
         print(f"Hello {username}") # * 'f' String 
+    else :
+        print("LOL")
 
 
 
