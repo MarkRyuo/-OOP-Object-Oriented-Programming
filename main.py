@@ -7,16 +7,13 @@ Online = True # * Boolean / Bool
 gpa= 1.50 # * Float 
 password = "JM01" # * Complex 
 
-# * Operators - Addition +, Multiplication  *, Subtraction -, Division /, Modulus %, Exponentiation **, Floor Division
-# *          // 
-
+# * Operators - Addition +, Multiplication  *, Subtraction -, Division /, Modulus %, Exponentiation **, Floor Division //
 
 #* LOOP'S  - While Loop & for loop 
 
-
 # * CONDITION  - If / else / elif statement 
 
-# * Function - def(define)
+# * Function - def stands for 
 
 
 def while_loop() :
