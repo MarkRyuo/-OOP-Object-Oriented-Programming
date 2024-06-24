@@ -46,7 +46,7 @@ while_loop()
 
 # * LIst, Dict, Set, Tuple 
 
-this_is_List = ["List0", "LIst1", "List2", "List3"] # * List is Changeable
+this_is_List = ["List0", "List1", "List2", "List3"] # * List is Changeable
 
 this_is_Dict = {
     "Name" : "Jhon Mark",
@@ -56,9 +56,10 @@ this_is_Dict = {
     "Password" : "Jm21"
 }
 
-this_is_Tuple = (
-    "List0",
+this_is_Tuple = ( # * 
+    "List0", 
     "List1",
     "List2",
     "List3"
-)
+) 
+
