@@ -41,7 +41,7 @@ def while_loop() :
 
 
 
-while_loop()
+# while_loop() 
 
 
 # * LIst, Dict, Set, Tuple 
@@ -63,3 +63,4 @@ this_is_Tuple = ( # * Tuple is not Changeable
     "List3"
 ) 
 
+# *
