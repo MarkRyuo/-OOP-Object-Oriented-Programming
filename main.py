@@ -21,12 +21,12 @@ password = "JM01" # * Complex
 #* for loop 
 
 
-
 # * condition 
 # * If / else / elif statement 
 
 
 # * Function - def(define)
+
 
 def while_loop() :
 
