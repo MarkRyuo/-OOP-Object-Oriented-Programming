@@ -47,3 +47,7 @@ while_loop()
 # * LIst, Dict, Set, Tuple 
 
 this_is_List = ["LIst0", "LIst1", "List2", "List3"]
+
+this_is_Dict = {
+    "Name" : "Jhon Mark"
+}
