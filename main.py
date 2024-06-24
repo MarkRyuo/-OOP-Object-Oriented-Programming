@@ -26,6 +26,8 @@ password = "JM01" # * Complex
 # * If / else / elif statement 
 
 
+# * Function - def(define)
+
 def while_loop() :
 
     username = input("Enter your name: ")
