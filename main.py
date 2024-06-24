@@ -15,7 +15,6 @@ password = "JM01" # * Complex
 
 # * Function - def stands for Define 
 
-
 def while_loop() :
 
     username = input("Enter your name: ")
