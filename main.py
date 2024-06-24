@@ -57,4 +57,6 @@ this_is_Tuple = ( # * Tuple is not Changeable
 
 
 
-def for_Loop()
+def for_Loop() :
+
+    Empty_List = []
