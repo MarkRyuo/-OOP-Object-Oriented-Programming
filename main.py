@@ -22,7 +22,6 @@ password = "JM01" # * Complex
 
 # * CONDITION  - If / else / elif statement 
 
-
 # * Function - def(define)
 
 
