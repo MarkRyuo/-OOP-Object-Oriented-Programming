@@ -62,7 +62,7 @@ def for_Loop() :
     Empty_List = [] 
 
     for i in range(1, 10) :
-        Empty_List.append(I)
-
+        Empty_List.append(i)
+    print(Empty_List)
 
 for_Loop()
