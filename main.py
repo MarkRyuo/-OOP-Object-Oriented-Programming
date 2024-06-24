@@ -7,9 +7,7 @@ Online = True # * Boolean / Bool
 gpa= 1.50 # * Float 
 password = "JM01" # * Complex 
 
-# * 
-
-# * Addition + 
+# * Operators - Addition + 
 # * Multiplication  *
 # * Subtraction - 
 # * Division / 
