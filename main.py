@@ -17,9 +17,7 @@ password = "JM01" # * Complex
 # *          // 
 
 
-#* LOOP'S 
-#* While Loop
-#* for loop 
+#* LOOP'S  - While Loop & for loop 
 
 
 # * CONDITION  
