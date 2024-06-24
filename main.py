@@ -20,8 +20,7 @@ password = "JM01" # * Complex
 #* LOOP'S  - While Loop & for loop 
 
 
-# * CONDITION  
-# * If / else / elif statement 
+# * CONDITION  - If / else / elif statement 
 
 
 # * Function - def(define)
