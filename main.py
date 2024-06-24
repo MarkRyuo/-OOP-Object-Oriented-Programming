@@ -54,3 +54,7 @@ this_is_Tuple = ( # * Tuple is not Changeable
 ) 
 
 # * Append(), Remove(), Clear(), Insert() - List, Dict 
+
+
+
+def for_Loop()
