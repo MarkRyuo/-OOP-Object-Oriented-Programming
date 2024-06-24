@@ -56,7 +56,7 @@ this_is_Dict = {
     "Password" : "Jm21"
 }
 
-this_is_Tuple = ( # * Tuble is not Changeable 
+this_is_Tuple = ( # * Tuple is not Changeable 
     "List0", 
     "List1",
     "List2",
