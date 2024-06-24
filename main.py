@@ -63,4 +63,4 @@ this_is_Tuple = ( # * Tuple is not Changeable
     "List3"
 ) 
 
-# * Append, Remove 
+# * Append, Remove(), Clear()
