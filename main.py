@@ -49,5 +49,9 @@ while_loop()
 this_is_List = ["LIst0", "LIst1", "List2", "List3"]
 
 this_is_Dict = {
-    "Name" : "Jhon Mark"
+    "Name" : "Jhon Mark",
+    "Age" : 21,
+    "Online" : True,
+    "Gpa" : 1.0,
+    "Password"
 }
