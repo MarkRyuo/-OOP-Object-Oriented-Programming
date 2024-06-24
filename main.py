@@ -44,4 +44,6 @@ def while_loop() :
 while_loop()
 
 
-# * LIst, Dict, Set, Tuple - 
+# * LIst, Dict, Set, Tuple 
+
+this_is_List = ["LIst0", "LIst1", "List2", "List3"]
