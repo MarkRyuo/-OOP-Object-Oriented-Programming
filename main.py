@@ -7,7 +7,7 @@ Online = True # * Boolean / Bool
 gpa= 1.50 # * Float 
 password = "JM01" # * Complex 
 
-# * Arithmetic 
+# * 
 
 # * Addition + 
 # * Multiplication  *
@@ -63,4 +63,4 @@ this_is_Tuple = ( # * Tuple is not Changeable
     "List3"
 ) 
 
-# * Append(), Remove(), Clear(), Insert() - List, 
+# * Append(), Remove(), Clear(), Insert() - List, Dict 
