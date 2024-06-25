@@ -71,5 +71,10 @@ def while_loop() :
 
     while True :
 
-        num1 = input("Enter a number: ") ;
-        num2 = input("Enter a number")
+        num1 = input("Enter a number: ") 
+        num2 = input("Enter a number: ")
+
+        if num1.isdigit && num2.isdigit :
+            print(num1 + num2) 
+        else :
+            print(ff"")
