@@ -74,7 +74,7 @@ def while_loop() :
         num1 = input("Enter a number: ") 
         num2 = input("Enter a number: ")
 
-        if num1.isdigit and num2.isdigit :
+        if num1.isdigit() and num2.isdigit() :
             num1 = int(num1)
             num2 = int(num2)
             total_of = num1 + num2 
