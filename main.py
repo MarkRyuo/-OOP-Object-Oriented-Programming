@@ -65,7 +65,7 @@ def for_Loop() :
         Empty_List.append(i) # * Understanding the Append - Empty_List i-append yung i 
     print(Empty_List)
 
-for_Loop()
+# for_Loop() 
 
 def while_loop() :
 
@@ -77,4 +77,6 @@ def while_loop() :
         if num1.isdigit && num2.isdigit :
             print(num1 + num2) 
         else :
-            print(f"{num1, num2} is ")
+            print(f"{num1, num2} is not a number")
+    
+
