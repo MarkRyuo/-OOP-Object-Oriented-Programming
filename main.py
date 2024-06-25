@@ -77,4 +77,4 @@ def while_loop() :
         if num1.isdigit && num2.isdigit :
             print(num1 + num2) 
         else :
-            print(ff"")
+            print(f"{num1, num2} is ")
