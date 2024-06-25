@@ -80,7 +80,7 @@ def while_loop() :
             total_of = num1 + num2 
             print(total)
         else :
-            print(f"{num1, num2} is not a number")
+            print(f"{num1}, {num2} is not a number")
     
 
 while_loop()
