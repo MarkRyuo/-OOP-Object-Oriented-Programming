@@ -71,4 +71,4 @@ def while_loop() :
 
     while True :
 
-        name_1 = input
+        num = input("Enter a number: ")
