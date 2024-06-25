@@ -70,3 +70,5 @@ for_Loop()
 def while_loop() :
 
     while True :
+
+        name_1 = input
