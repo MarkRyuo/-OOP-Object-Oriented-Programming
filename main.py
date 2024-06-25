@@ -68,4 +68,5 @@ def for_Loop() :
 for_Loop()
 
 def while_loop() :
-    
+
+    while True :
