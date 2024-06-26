@@ -83,3 +83,6 @@ def while_loop() :
             print(f"{num1}, {num2} is not a number")
     
 while_loop()
+
+
+
