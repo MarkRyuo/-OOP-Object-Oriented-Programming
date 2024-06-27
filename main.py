@@ -78,7 +78,7 @@ def while_loop() :
             num1 = int(num1)
             num2 = int(num2)
             total_of = num1 + num2 
-            print(total)
+            print(total_of)
         else :
             print(f"{num1}, {num2} is not a number")
     
