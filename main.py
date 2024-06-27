@@ -89,9 +89,9 @@ def while_loop() :
 
 class Animal() :
 
-    def __init__(self, name_of_animal, age_of_dog):
+    def __init__(self, name_of_animal, age_of_animal:
         self.name_of_animal = name_of_animal 
-        
+        self.age_of_animal = age_of_dog
         
 
 
