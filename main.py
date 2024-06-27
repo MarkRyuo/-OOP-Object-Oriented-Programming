@@ -82,6 +82,9 @@ def while_loop() :
         else :
             print(f"{num1}, {num2} is not a number")
     
-while_loop()
+# while_loop() 
+
+
+
 
 
