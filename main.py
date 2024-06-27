@@ -98,7 +98,7 @@ class Animal() :
         while True :
 
             name_of_Dog = input("Enter name of Dog") 
-            age_of_Dog = input("Enter age of your Dog")
+            age_of_Dog = input("Enter age of your Dog: ")
             
         
         
