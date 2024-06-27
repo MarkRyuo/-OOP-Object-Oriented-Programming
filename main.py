@@ -95,7 +95,10 @@ class Animal() :
     
     def Dog(self):
         
-        name_of_Dog = input("Enter name of Dog")
+        while True
+        name_of_Dog = input("Enter name of Dog") 
+        
+        
         
 
 
