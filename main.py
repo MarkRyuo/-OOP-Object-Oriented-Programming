@@ -110,6 +110,6 @@ class Animal() :
         
 
 
-Dog_ = Animal() 
+Dog_ = Animal(name_of_animal, age_of_animal) 
 Dog_.Dog()
 
