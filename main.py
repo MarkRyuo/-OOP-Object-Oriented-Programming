@@ -89,7 +89,7 @@ def while_loop() :
 
 class Animal() :
 
-    def __init__(self) -> None:
+    def __init__(self, name_of_animal, age_of_dog):
         
 
 
