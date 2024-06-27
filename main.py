@@ -101,9 +101,10 @@ class Animal() :
             age_of_Dog = input("Enter age of your Dog: ")
 
             if name_of_Dog.isdigit():
-                print()
+                print(f"Dog is not found! {name_of_Dog}")
             else:
                 print(f"Your dogs name is {name_of_Dog}.")
+                break
             
         
         
