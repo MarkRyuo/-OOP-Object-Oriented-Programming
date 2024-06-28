@@ -101,11 +101,13 @@ class Animal() :
 
                 name_of_Dog = input("Enter name of Dog: ") 
 
-            if name_of_Dog.isdigit():
-                print(f"Dog is not found!, Try Again! ")
-            else:
-                print(f"Your dogs name is {name_of_Dog}.")
-                break
+                if name_of_Dog.isdigit():
+                    print(f"Dog is not found!, Try Again! ")
+                else:
+                    print(f"Your dogs name is {name_of_Dog}.")
+                    break
+                
+                return name_of_Dog
             
             
 
