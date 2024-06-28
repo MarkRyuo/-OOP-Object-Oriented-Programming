@@ -95,8 +95,8 @@ class Animal() :
     def Dog(self):
 
 
+        def Name_Of_Dog
 
-        
 
         
         while True :
