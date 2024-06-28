@@ -97,19 +97,23 @@ class Animal() :
 
         def Name_Of_Dog() :
 
-            while 
+            while True :
 
-
-        
-        while True :
-
-            name_of_Dog = input("Enter name of Dog: ") 
+                name_of_Dog = input("Enter name of Dog: ") 
 
             if name_of_Dog.isdigit():
                 print(f"Dog is not found!, Try Again! ")
             else:
                 print(f"Your dogs name is {name_of_Dog}.")
                 break
+            
+            
+
+
+
+        
+      
+
             
             age_of_Dog = input("Enter age of your Dog: ")
         
