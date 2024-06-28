@@ -120,6 +120,7 @@ class Animal() :
                 
                 if age_of_Dog.isdigit() :
                     print(f"Your dog age is {age_of_Dog}")
+                    break
                 else :
                     print(f"{age_of_Dog} is not a number, Try Again! ")
 
