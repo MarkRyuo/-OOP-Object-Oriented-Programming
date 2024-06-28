@@ -108,7 +108,7 @@ class Animal() :
             
         
             if age_of_Dog.isdigit() :
-                print(f"")
+                print(f"Your dog age is {age_of_Dog}")
 
 
 Dog_ = Animal() 
