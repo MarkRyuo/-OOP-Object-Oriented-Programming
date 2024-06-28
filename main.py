@@ -101,6 +101,7 @@ class Animal() :
 
             if name_of_Dog.isdigit():
                 print(f"Dog is not found!, Try Again! ")
+                continue
             else:
                 print(f"Your dogs name is {name_of_Dog}.")
                 break
