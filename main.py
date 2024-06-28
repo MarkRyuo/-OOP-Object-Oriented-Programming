@@ -107,7 +107,7 @@ class Animal() :
                 break
             
         
-            if 
+            if age
 
 
 Dog_ = Animal() 
