@@ -115,17 +115,18 @@ class Animal() :
         def Age_Of_Dog() :
 
             while True :
-                
+
+
         
       
 
             
-            # age_of_Dog = input("Enter age of your Dog: ")
+            age_of_Dog = input("Enter age of your Dog: ")
         
-            # if age_of_Dog.isdigit() :
-            #     print(f"Your dog age is {age_of_Dog}")
-            # else :
-            #     print(f"{age_of_Dog} is not a number, Try Again! ")
+            if age_of_Dog.isdigit() :
+                print(f"Your dog age is {age_of_Dog}")
+            else :
+                print(f"{age_of_Dog} is not a number, Try Again! ")
 
 
 Dog_ = Animal() 
