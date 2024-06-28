@@ -109,11 +109,13 @@ class Animal() :
                 
             return name_of_Dog
             
-            
-
         Name_Of_Dog()
 
 
+        def Age_Of_Dog() :
+
+            while True :
+                
         
       
 
