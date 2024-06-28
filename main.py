@@ -107,7 +107,7 @@ class Animal() :
                 break
             
         
-            if age
+            if age_of_Dog.isdigit()
 
 
 Dog_ = Animal() 
