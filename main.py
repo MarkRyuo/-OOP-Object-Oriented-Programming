@@ -122,8 +122,9 @@ class Animal() :
                     print(f"Your dog age is {age_of_Dog}")
                 else :
                     print(f"{age_of_Dog} is not a number, Try Again! ")
-        
-      
+
+            return age_of_Dog
+
 
             
         
