@@ -134,6 +134,10 @@ class Animal() :
 
             name_Cat = True 
 
+            while name_Cat :
+
+                NAME_OF_CAT = input("Enter Name of your cat: ")
+
 
             
         
