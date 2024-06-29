@@ -128,7 +128,7 @@ class Animal() :
         
         Age_Of_Dog()
     
-    def Cat() :
+    def Cat(self) :
 
         def name_of_Cat() :
 
