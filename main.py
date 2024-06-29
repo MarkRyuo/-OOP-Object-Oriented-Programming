@@ -155,5 +155,4 @@ animal = Animal()
 animal.Dog()
 
 
-Cat_ = Animal()
 Cat_.Cat()
