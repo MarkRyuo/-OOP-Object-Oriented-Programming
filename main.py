@@ -146,7 +146,7 @@ class Animal() :
 
             return NAME_OF_CAT
 
-        name_of_Cat()
+        catt_name = name_of_Cat()
             
         
 
