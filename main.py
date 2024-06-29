@@ -152,7 +152,7 @@ class Animal() :
 
 
 animal = Animal() 
-animal.Dog()
+# animal.Dog()
 
 
 animal.Cat()
