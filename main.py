@@ -130,7 +130,9 @@ class Animal() :
     
     def Cat() :
 
-        def name_of_Cat()
+        def name_of_Cat() :
+
+            name_Cat = True 
 
 
             
