@@ -155,3 +155,4 @@ Dog_.Dog()
 
 
 Cat_ = Animal()
+Cat_.Cat()
