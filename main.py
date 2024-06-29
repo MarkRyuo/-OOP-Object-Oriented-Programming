@@ -140,6 +140,8 @@ class Animal() :
 
                 if NAME_OF_CAT.isdigit() :
                     print(f"Cat Name is not a Number")
+                else :
+                    print(f"Your cat name is ")
 
 
             
