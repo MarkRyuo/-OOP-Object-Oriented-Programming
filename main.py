@@ -145,7 +145,7 @@ class Animal() :
                     name_Cat = False
             return NAME_OF_CAT
 
-
+        name_of_Cat()
             
         
 
