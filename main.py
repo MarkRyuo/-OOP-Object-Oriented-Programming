@@ -139,6 +139,7 @@ class Animal() :
                 NAME_OF_CAT = input("Enter Name of your cat: ")
 
                 if NAME_OF_CAT.isdigit() :
+                    print(f"Cat Name is not a Number")
 
 
             
