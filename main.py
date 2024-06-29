@@ -142,7 +142,7 @@ class Animal() :
                     print(f"Cat name is not a Number")
                 else :
                     print(f"Your cat name is {NAME_OF_CAT}")
-                    name_Cat = False
+                    break 
 
                 return NAME_OF_CAT
 
