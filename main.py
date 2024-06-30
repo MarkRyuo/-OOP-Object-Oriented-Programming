@@ -1,6 +1,5 @@
 
 
-try_open = open('testopen.txt')
 # * Variable 
 
 username = "Jhon Mark" # * String/ str 
