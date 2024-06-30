@@ -170,6 +170,8 @@ try :
 
     get_a_numberX, get_a_numberY = int(get_a_numberX), int(get_a_numberY)
 
-    print(get_a_numberX, get_numberY) 
+    print(get_a_numberX, get_numberY)
+
+except Exception : 
 
     
