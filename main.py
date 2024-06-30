@@ -158,3 +158,4 @@ animal = Animal()
 animal.Cat()
 
 
+try_open = open('testopen.py')
