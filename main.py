@@ -172,6 +172,8 @@ try :
 
     print(get_a_numberX, get_numberY)
 
-except Exception : 
+except Exception :
+
+    print("Something Wrong!") 
 
     
