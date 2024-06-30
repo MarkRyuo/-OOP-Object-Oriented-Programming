@@ -166,4 +166,4 @@ animal.Cat()
 try :
 
     get_a_numberX  = input("Enter a number: ")
-    get_a_numberY = input
+    get_a_numberY = input("Enter a number: ")
