@@ -160,3 +160,4 @@ animal.Cat()
 
 
 # * exception 
+# * try & exception & exception as e 
