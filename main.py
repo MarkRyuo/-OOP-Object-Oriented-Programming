@@ -157,5 +157,3 @@ animal = Animal()
 
 animal.Cat()
 
-
-
