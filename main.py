@@ -156,7 +156,7 @@ animal = Animal()
 # animal.Dog()
 
 
-animal.Cat()
+# animal.Cat()
 
 
 # * exception 
@@ -168,6 +168,6 @@ try :
     get_a_numberX  = input("Enter a number: ")
     get_a_numberY = input("Enter a number: ")
 
-    get_a_numberX, get_a_numberY = int(get_)
+    get_a_numberX, get_a_numberY = int(get_a_numberX), 
 
     
