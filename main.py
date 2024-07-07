@@ -163,22 +163,22 @@ animal = Animal()
 # * try & exception & exception as e 
 
 
-try :
+# try :
 
-    get_a_numberX  = input("Enter a number: ")
-    get_a_numberY = input("Enter a number: ")
+#     get_a_numberX  = input("Enter a number: ")
+#     get_a_numberY = input("Enter a number: ")
 
-    get_a_numberX, get_a_numberY = int(get_a_numberX), int(get_a_numberY)
+#     get_a_numberX, get_a_numberY = int(get_a_numberX), int(get_a_numberY)
 
-    print(get_a_numberX, get_a_numberY)
+#     print(get_a_numberX, get_a_numberY)
 
-# except Exception :
+# # except Exception :
 
+# #     print("Something Wrong!") 
+
+# except Exception as e :
+#     print(e)
 #     print("Something Wrong!") 
-
-except Exception as e :
-    print(e)
-    print("Something Wrong!") 
 
 
 def try_() :
