@@ -192,4 +192,4 @@ def try_() :
         get_number_y = int(get_number_y)
 
         total = get_number_x * get_number_y 
-        print(total)
+        print(f"{total}")
