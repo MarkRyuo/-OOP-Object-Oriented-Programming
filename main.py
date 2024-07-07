@@ -181,4 +181,8 @@ except Exception as e :
     print("Something Wrong!") 
 
 
-def try_() 
+def try_() :
+
+    try : 
+
+        get_number_x = input("Enter a Number")
