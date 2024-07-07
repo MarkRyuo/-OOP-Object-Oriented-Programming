@@ -186,6 +186,6 @@ def try_() :
     try : 
 
         get_number_x = input("Enter a Number x: ")
+        get_number_x = int(get_number_x)
         get_number_y = input("Enter a Number y: ")
 
-        get_number_x = int(get_number_x)
