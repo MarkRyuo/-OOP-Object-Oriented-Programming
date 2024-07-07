@@ -195,3 +195,5 @@ def try_() :
         print(f"{get_number_x} x {get_number_y} = {total}")
     
     except Exception as e :
+        print(e)
+        print("")
