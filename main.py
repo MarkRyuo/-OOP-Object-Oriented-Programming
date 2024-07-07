@@ -185,4 +185,5 @@ def try_() :
 
     try : 
 
-        get_number_x = input("Enter a Number")
+        get_number_x = input("Enter a Number x: ")
+        get_number_y = input("Enter a Number y : ")
