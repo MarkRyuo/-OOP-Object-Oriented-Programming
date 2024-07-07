@@ -196,4 +196,7 @@ def try_() :
     
     except Exception as e :
         print(e)
-        print("")
+        print("Something was wrong!")
+
+
+try_()
