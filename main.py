@@ -189,4 +189,7 @@ def try_() :
         get_number_x = int(get_number_x)
 
         get_number_y = input("Enter a Number y: ")
-        get_number_y = int(get_number)
+        get_number_y = int(get_number_y)
+
+        total = get_number_x * get_number_y 
+        print(get_number)
