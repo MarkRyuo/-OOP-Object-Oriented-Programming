@@ -10,6 +10,7 @@ def Have_account() :
 
         do_have_account = input("Do you have account? [y/N]: ")
 
+        if do_have_account == "y" or do_have_account == "Y"
     
 
 
