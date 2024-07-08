@@ -27,7 +27,7 @@ def Log_in() :
         get_username = input("Enter your username: ")
 
         if get_username.isdigit() :
-            print("Invalid username")
+            print("Invalid username the content is number")
 
     
 
