@@ -24,7 +24,10 @@ def Log_in() :
 
     while True :
 
-        get_username = "Inp"
+        get_username = input("Enter your username: ")
+
+        if get_username.isdigit() :
+            
 
     
 
