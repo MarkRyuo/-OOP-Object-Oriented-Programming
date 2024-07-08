@@ -29,7 +29,8 @@ def Log_in() :
         if get_username.isdigit() : # * isdigit check for all of get_username is a digit number 
             if get_username :
                 print("Invalid username the content is number")
-            else : 
+        else : 
+            break 
     
 
 
