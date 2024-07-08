@@ -6,7 +6,9 @@
 
 def Have_account() :
 
-    do_have_account = input("Do you have account? [y/N])
+    do_have_account = input("Do you have account? [y/N]: ")
+
+    
 
 
 
