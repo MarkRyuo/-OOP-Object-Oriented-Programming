@@ -22,7 +22,20 @@ def Have_account() :
 
 def Log_in() : # * This block code is for log in only 
 
-   def 
+   def _username() :
+
+     while True :
+
+        get_username = input("Enter your username: ")
+
+        if get_username.isdigit() : # * isdigit check for all of get_username is a digit number 
+            if get_username :
+                print("Invalid username the content is number")
+        else : 
+            break 
+
+    return get_username 
+
 
 
     
