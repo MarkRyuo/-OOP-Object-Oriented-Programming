@@ -27,4 +27,4 @@ class Jhonmark_morningroutine(routine) :
         print("Jhon Mark opens Facebook")
     
     def open_games(self) :
-        print()
+        print("Jhon Mark opens Mobile Legends")
