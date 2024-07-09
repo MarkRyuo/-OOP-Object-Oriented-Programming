@@ -37,3 +37,4 @@ class Jerome_morningroutine(routine) :
     
     def open_games(self) :
         print("Jerome opens Genshin Impact")
+
