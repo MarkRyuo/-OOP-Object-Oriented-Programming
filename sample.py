@@ -44,6 +44,6 @@ jhonmark_routine = Jhonmarkmorningroutine()
 jerome_routine = Jeromemorningroutine()
 
 
-jhonmark_routine._routine()
+jhonmark_routine._Routine()
 jerome_routine._routine()
 
