@@ -36,4 +36,4 @@ class Jerome_morningroutine(routine) :
         print("Jerome opens Instagram")
     
     def open_games(self) :
-        print
+        print("Jerome opens Genshin Impact")
