@@ -28,3 +28,8 @@ class Jhonmark_morningroutine(routine) :
     
     def open_games(self) :
         print("Jhon Mark opens Mobile Legends")
+
+
+class Jerome_morningroutine(routine) :
+
+    def open
