@@ -8,5 +8,10 @@ class routine :
         pass 
 
     def _Routine() :
+        self.open_social_media()
+        self.open_games()
+
+
+class Jhonmark_morningroutine(routine) :
 
         
