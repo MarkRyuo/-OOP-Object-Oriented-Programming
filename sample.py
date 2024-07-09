@@ -3,11 +3,10 @@
 
 
 class Routine :
-
     def __init__(self) :
         pass 
 
-    def _Routine() :
+    def _Routine(self) :
         self.open_social_media()
         self.open_games()
 
@@ -23,7 +22,6 @@ class Routine :
 
     # * Concrete Class 
 class JhonmarkMorningRoutine(Routine) :
-
     def open_social_media(self) :
         print("Jhon Mark opens Facebook")
     
@@ -32,7 +30,6 @@ class JhonmarkMorningRoutine(Routine) :
 
 
 class JeromeMorningRoutine(Routine) :
-
     def open_social_media(self) :
         print("Jerome opens Instagram")
     
