@@ -21,6 +21,7 @@ class routine :
         pass
 
 
+    # * Concrete Class 
 class Jhonmark_morningroutine(routine) :
 
     def open_social_media(self) :
