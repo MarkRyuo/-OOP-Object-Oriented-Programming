@@ -40,3 +40,4 @@ class Jerome_morningroutine(routine) :
         print("Jerome opens Genshin Impact")
 
 
+Jhonmark_routine = routine() ;
