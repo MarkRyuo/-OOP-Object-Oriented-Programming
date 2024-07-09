@@ -32,4 +32,8 @@ class Jhonmark_morningroutine(routine) :
 
 class Jerome_morningroutine(routine) :
 
-    def open
+    def open_social_media(self) :
+        print("Jerome opens Instagram")
+    
+    def open_games(self) :
+        print
