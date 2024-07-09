@@ -22,7 +22,7 @@ class Routine :
 
 
     # * Concrete Class 
-class Jhonmarkmorningroutine(Routine) :
+class JhonmarkMorningRoutine(Routine) :
 
     def open_social_media(self) :
         print("Jhon Mark opens Facebook")
@@ -31,7 +31,7 @@ class Jhonmarkmorningroutine(Routine) :
         print("Jhon Mark opens Mobile Legends")
 
 
-class Jeromemorningroutine(Routine) :
+class JeromeMorningRoutine(Routine) :
 
     def open_social_media(self) :
         print("Jerome opens Instagram")
@@ -40,9 +40,8 @@ class Jeromemorningroutine(Routine) :
         print("Jerome opens Genshin Impact")
 
 
-jhonmark_routine = Jhonmarkmorningroutine()
-jerome_routine = Jeromemorningroutine()
-
+jhonmark_routine = JhonmarkMorningRoutine()
+jerome_routine = JeromeMorningRoutine()
 
 jhonmark_routine._Routine()
 jerome_routine._Routine()
