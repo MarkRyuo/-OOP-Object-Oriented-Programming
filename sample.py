@@ -40,8 +40,8 @@ class Jeromemorningroutine(Routine) :
         print("Jerome opens Genshin Impact")
 
 
-Jhonmark_routine = Jhonmarkmorningroutine()
-Jerome_routine = Jeromemorningroutine()
+jhonmark_routine = Jhonmarkmorningroutine()
+jerome_routine = Jeromemorningroutine()
 
 
 Jhonmark_routine._routine()
