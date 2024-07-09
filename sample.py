@@ -22,7 +22,7 @@ class routine :
 
 
     # * Concrete Class 
-class Jhonmark_morningroutine(routine) :
+class Jhonmarkmorningroutine(routine) :
 
     def open_social_media(self) :
         print("Jhon Mark opens Facebook")
@@ -31,7 +31,7 @@ class Jhonmark_morningroutine(routine) :
         print("Jhon Mark opens Mobile Legends")
 
 
-class Jerome_morningroutine(routine) :
+class Jeromemorningroutine(routine) :
 
     def open_social_media(self) :
         print("Jerome opens Instagram")
