@@ -24,4 +24,7 @@ class routine :
 class Jhonmark_morningroutine(routine) :
 
     def open_social_media(self) :
+        print("Jhon Mark opens Facebook")
+    
+    def open_games(self) :
         print()
