@@ -11,6 +11,9 @@ class routine :
         self.open_social_media()
         self.open_games()
 
+    
+    # * Abstract Class
+
     def open_social_media(self) :
         pass
 
