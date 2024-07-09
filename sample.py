@@ -2,7 +2,7 @@
 # * Morning Routine 
 
 
-class routine :
+class Routine :
 
     def __init__(self) :
         pass 
@@ -22,7 +22,7 @@ class routine :
 
 
     # * Concrete Class 
-class Jhonmarkmorningroutine(routine) :
+class Jhonmarkmorningroutine(Routine) :
 
     def open_social_media(self) :
         print("Jhon Mark opens Facebook")
@@ -31,7 +31,7 @@ class Jhonmarkmorningroutine(routine) :
         print("Jhon Mark opens Mobile Legends")
 
 
-class Jeromemorningroutine(routine) :
+class Jeromemorningroutine(Routine) :
 
     def open_social_media(self) :
         print("Jerome opens Instagram")
