@@ -38,11 +38,6 @@ def Log_in() : # * This block code is for log in only
 
 
 
-    
-
-
-
-
 
 def main() :
 
