@@ -8,7 +8,7 @@ def Have_account() :
 
     while True : # * loop for user 
 
-        do_have_account = input("Do you have account? [y/N]: ")
+        do_have_account = input("Do you have account? [y/N]: ") # * Do you have account? 
 
         if do_have_account == "N" or do_have_account == "n" :
             pass # ! Create a email&password  
