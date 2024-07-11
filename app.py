@@ -42,6 +42,7 @@ def main() :
 
     account = Have_account()
     Log_in()
+    print(account)
 
 
 
