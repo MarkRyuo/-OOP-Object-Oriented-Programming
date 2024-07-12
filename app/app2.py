@@ -8,3 +8,8 @@ class main :
         pass
 
     
+    def User(self) :
+        self.username()
+        self.password()
+    
+    
