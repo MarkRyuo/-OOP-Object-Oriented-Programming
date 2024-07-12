@@ -43,11 +43,11 @@ class Username(main): # * Conrete
 def main() :
 
     User = Username() # * Call the subclass Username
-
-    if User :
-        print(f"Welcome user: {User.username()}")
-    else:
-        pass
+    print(f"Welcome user: {User.username()}")
+    # if User :
+    #     print(f"Welcome user: {User.username()}")
+    # else:
+    #     pass
     
 
 
