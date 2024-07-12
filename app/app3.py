@@ -1,6 +1,5 @@
 
-# Todo Create a user log Only 
-
+# Todo Create a user log using Inheritance 
 
 class main :
 
