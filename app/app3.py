@@ -41,12 +41,14 @@ class Username(main): # * Conrete
         user_attempt = 2 # * User attempt limit 2  
         user_pass = True # * userpass boolean
 
-        while True:
+        while user_pass:
 
             user_password = input("Enter your password: ")
 
-            if user_password :
-                pass 
+            if user_password.isdigit() :
+                user_attempt -= 1 
+                print("Unsupported password Try Again")
+
             else :
                 pass 
 
