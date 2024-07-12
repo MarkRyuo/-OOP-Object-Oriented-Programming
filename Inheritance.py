@@ -20,6 +20,16 @@ class main :
 class Car(main) :
 
     # * Subclass 
+    wheels = 4 
+    doors = 4
+
+
+class Bicycle(main) :
+    
+    #* Subclass 
+
+    wheels = 2
+    pedals = 2 
 
 
 
