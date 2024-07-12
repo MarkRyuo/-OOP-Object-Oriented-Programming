@@ -34,6 +34,9 @@ class main :
 
 class Username(main):
 
+    def __init__(self, username, user_password) :
+        def __init__(self) :
+            pass
 
     def welcoming(self) :
         print(f"Welcome user {self.username}")
