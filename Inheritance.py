@@ -10,7 +10,7 @@ class main :
     def 
 
 
-class Dog(main) :
+class Car(main) :
 
     # * Subclass 
 
