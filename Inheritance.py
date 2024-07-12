@@ -34,7 +34,7 @@ class Bicycle(main) :
 
 car = main()
 
-car.go
+car.go()
 
 
 
