@@ -35,6 +35,12 @@ class Username(main): # * Conrete
                 break
 
         return username
+    
+    def user_password(self):
+
+        while True:
+
+            user_password = input("Enter your password: ")
 
 
 
