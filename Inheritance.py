@@ -21,7 +21,7 @@ class Car(main) :
 
     # * Subclass 
 
-    def wheels(self):
+    def Wheels(self):
         wheels = 4
         return wheels
 
