@@ -58,7 +58,7 @@ def main() :
 
 # main() 
 
-User = Username(username) # * Call the subclass Username
+User = Username(Username) # * Call the subclass Username
 User.username()
 
 User.welcoming()
