@@ -32,7 +32,7 @@ class Bicycle(main) :
     pedals = 2 
 
 
-
+car = main()
 
 
 
