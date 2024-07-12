@@ -44,7 +44,10 @@ class Username(main): # * Conrete
 
             user_password = input("Enter your password: ")
 
-            if user_password
+            if user_password :
+                pass 
+            else :
+                pass 
 
 
 
