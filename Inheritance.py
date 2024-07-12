@@ -35,8 +35,9 @@ class Bicycle(main) :
 
     def wheels(self) :
         return 2
-    wheels = 2
-    pedals = 2 
+    
+    def pedals(self) :
+        return 2
 
 
 car = Car()
