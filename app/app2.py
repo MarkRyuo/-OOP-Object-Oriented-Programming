@@ -32,10 +32,7 @@ class main :
         pass
 
 
-class Username(main) :User.username()
-
-    def __init__(self):
-        pass
+class Username(main) :
 
 
     def welcoming(self) :
