@@ -43,10 +43,9 @@ class Username(main): # * Conrete
 def main() :
 
     User = Username() # * Call the subclass Username
-    User.username()
 
     if User :
-        User.welcoming()
+        print(f"Welcome user: {User.username()}")    
     else:
         pass
     
@@ -56,4 +55,3 @@ def main() :
 
 User = Username() # * Call the subclass Username
 
-print(f"Welcome user: {User.username()}")
