@@ -41,8 +41,6 @@ class Username(main) :
 
 
 
-
-
 def main() :
 
     User = Username()
