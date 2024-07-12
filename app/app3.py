@@ -49,7 +49,7 @@ class Username(main): # * Conrete
                 user_attempt -= 1 
                 print("Unsupported password, Try Again!")
             else :
-                print("Loading.......") 
+                print("Loading.......")  #* If password is true not digits number
                 break
 
             if user_attempt == 0 :
