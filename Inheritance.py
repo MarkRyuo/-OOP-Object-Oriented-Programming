@@ -45,10 +45,7 @@ car.go()
 print(f"The car have {car.wheels()} wheels")
 
 
-bike = Bi
-cycle(
-
-)
+bike = Bicycle()
 
 
 
