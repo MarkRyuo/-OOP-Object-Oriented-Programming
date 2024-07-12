@@ -13,6 +13,9 @@ class main :
 
     def go(self) :
         print("This Vehicle is moving")
+    
+    def stop(self) :
+        print("This Vehicle is stopped")
 
 class Car(main) :
 
