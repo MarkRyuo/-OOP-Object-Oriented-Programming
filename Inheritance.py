@@ -12,10 +12,10 @@ class main :
         self.stop() ;
 
     def go(self) :
-        print("This Vehicle is moving")
+        print("This Vehicle is moving!")
     
     def stop(self) :
-        print("This Vehicle is stopped")
+        print("This Vehicle is stopped!")
 
 class Car(main) :
 
