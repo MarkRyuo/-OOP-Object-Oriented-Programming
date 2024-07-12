@@ -8,7 +8,7 @@ class main :
         pass
 
     
-    def User(self) :
+    def User(self) : # * Abstract?
         self.username()
         self.user_password()
     
