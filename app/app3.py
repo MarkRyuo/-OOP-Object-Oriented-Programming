@@ -19,7 +19,7 @@ class main :
         pass
 
 
-class Username(main): # * Conrete
+class Username(main): # * Conrete ``
 
     def username(self) : # ! Method? 
 
@@ -66,6 +66,13 @@ def main() :
     User = Username() # * Call the subclass Username
     print(f"Welcome user: {User.username()}")
     print(f"Password : {User.user_password()}")
+
+    List_of_Person = [
+
+    ]
+    
+    if User :
+        User.username().append(List_of_Person)
 
 main() 
 
