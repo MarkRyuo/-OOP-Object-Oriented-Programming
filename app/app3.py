@@ -48,9 +48,11 @@ class Username(main): # * Conrete
             if user_password.isdigit() :
                 user_attempt -= 1 
                 print("Unsupported password, Try Again!")
-
             else :
                 pass 
+
+            if user_attempt == 0 :
+                print("2 Attempt Block")
 
 
 
