@@ -32,7 +32,7 @@ class main :
         pass
 
 
-class Username(main):
+class Username(main): # * Conrete
 
     def welcoming(self) :
         print(f"Welcome user {self.username}")
