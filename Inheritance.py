@@ -11,11 +11,13 @@ class main :
         self.go() ;
         self.stop() ;
 
-
+    def go(self) :
+        print("This Vehicle is moving")
 
 class Car(main) :
 
     # * Subclass 
+
 
 
 
