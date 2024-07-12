@@ -33,6 +33,8 @@ class Bicycle(main) :
     
     #* Sub-class 
 
+    def wheels(self) :
+        return 2
     wheels = 2
     pedals = 2 
 
