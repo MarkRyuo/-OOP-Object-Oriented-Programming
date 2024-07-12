@@ -48,6 +48,7 @@ car.stop()
 bike = Bicycle()
 bike.go()
 print(f"The bicycle have {bike.wheels()}")
+bike.stop()
 
 
 
