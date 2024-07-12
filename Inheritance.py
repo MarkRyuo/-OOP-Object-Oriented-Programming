@@ -34,8 +34,9 @@ class Bicycle(main) :
     pedals = 2 
 
 
-car = main(), Car()
-# car.go()
+car = main()
+cr = Car()
+car.go()
 print(f"The car have {car.wheels} wheels")
 
 
