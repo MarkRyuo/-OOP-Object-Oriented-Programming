@@ -52,7 +52,7 @@ class Username(main): # * Conrete
                 print("Loading.......")  #* If password is true not digits number
                 break
 
-            if user_attempt == 0 :
+            if user_attempt == 0 : #* Logic for attempting password 
                 print("2 Attempt Block")
                 break
 
