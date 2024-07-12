@@ -36,7 +36,6 @@ class Username(main): # * Conrete
                 break
 
         return username
-    user_ = username()
 
 
 
@@ -58,4 +57,4 @@ def main() :
 User = Username() # * Call the subclass Username
 User.username()
 
-print(f"Welcome user: {user_}")
+print(f"Welcome user: {username()}")
