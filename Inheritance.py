@@ -44,10 +44,10 @@ car = Car()
 car.go()
 print(f"The car have {car.wheels()} wheels")
 car.stop()
-
+print()
 bike = Bicycle()
 bike.go()
-print(f"The bicycle have {bike.wheels()}")
+print(f"The bicycle have {bike.wheels()} wheels")
 bike.stop()
 
 
