@@ -43,4 +43,4 @@ class Username(main) :
 
 
 User = Username()
-User.username()
+User.welcoming()
