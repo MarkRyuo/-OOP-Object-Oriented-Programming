@@ -38,7 +38,7 @@ class Username(main): # * Conrete
     
     def user_password(self):
 
-        user_attempt = 1 
+        user_attempt = 2 # * User attempt limit 2  
 
         while True:
 
