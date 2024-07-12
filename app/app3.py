@@ -67,13 +67,5 @@ def main() :
     print(f"Welcome user: {User.username()}")
     print(f"Password : {User.user_password()}")
 
-    List_of_Person = [
-
-    ]
-    
-    if User :
-        User.username().append(List_of_Person) 
-        print(List_of_Person)
-
 main() 
 
