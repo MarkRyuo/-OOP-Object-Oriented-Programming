@@ -12,4 +12,8 @@ class main :
         self.username()
         self.password()
     
-    
+    def username(self) :
+
+        while True :
+
+            _username = input("Enter your username: ")
