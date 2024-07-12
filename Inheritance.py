@@ -7,7 +7,8 @@ class main :
     def __init__(self) :
         pass 
 
-    def Shape(self) : 
+    def Vehicle(self) :
+        
 
 
 
