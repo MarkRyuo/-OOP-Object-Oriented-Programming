@@ -17,7 +17,7 @@ class main :
     def stop(self) :
         print("This Vehicle is stopped!")
 
-class Car(main) :
+class Car(main) : # * For java we need extend to Inherit the parent. In python this is how it works 
 
     # * Sub-class 
 
