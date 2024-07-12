@@ -14,7 +14,7 @@ class main :
     
     def username(self) : # ! Method? 
 
-        while True :
+        while True : # * Loop 
 
             username = input("Enter your username: ") 
 
