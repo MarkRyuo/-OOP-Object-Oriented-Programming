@@ -50,6 +50,7 @@ class Username(main): # * Conrete
                 print("Unsupported password, Try Again!")
             else :
                 print("Loading.......") 
+                break
 
             if user_attempt == 0 :
                 print("2 Attempt Block")
