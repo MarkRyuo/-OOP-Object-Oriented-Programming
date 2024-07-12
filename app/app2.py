@@ -34,7 +34,7 @@ class main :
 
 class Username(main):
 
-    def __init__(self, username, user_password) :
+    def __init__(self, username) :
         def __init__(self) :
             pass
 
