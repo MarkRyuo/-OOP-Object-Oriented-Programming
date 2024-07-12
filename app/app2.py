@@ -27,14 +27,14 @@ class main :
             
         return _username
 
+    User = username()
+
     
     def user_password(self) :
         pass
 
 
 class Username(main) :
-
-    User = username()
 
     def welcoming(self) :
         print(f"Welcome user {User}")
