@@ -8,11 +8,11 @@ class main :
         pass
 
     
-    def User(self) : # * Abstract?
+    def User(self) : # ! Abstract?
         self.username()
         self.user_password()
     
-    def username(self) :
+    def username(self) : # ! Method? 
 
         while True :
 
