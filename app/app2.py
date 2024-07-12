@@ -21,5 +21,5 @@ class main :
             if username.isdigit() :
                 if username :
                     print(f"Unsupported username, Try Again!")
-
             else :
+                print(f"Loading.....")
