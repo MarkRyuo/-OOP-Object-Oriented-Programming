@@ -53,7 +53,7 @@ class Username(main): # * Conrete
                 break
 
             if user_attempt == 0 : #* Logic for attempting password 
-                print("2 Attempt Block")
+                print("2 Attempt Block 🔐")
                 break
 
         return user_password
