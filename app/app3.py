@@ -72,7 +72,8 @@ def main() :
     ]
     
     if User :
-        User.username().append(List_of_Person)
+        User.username().append(List_of_Person) 
+        print(List_of_Person)
 
 main() 
 
