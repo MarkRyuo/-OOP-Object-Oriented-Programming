@@ -45,7 +45,7 @@ def main() :
     User = Username() # * Call the subclass Username
 
     if User :
-        print(f"Welcome user: {User.username()}")    
+        # print(f"Welcome user: {User.username()}")    
     else:
         pass
     
