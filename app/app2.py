@@ -35,7 +35,7 @@ class main :
 class Username(main): # * Conrete
 
     def welcoming(self) :
-        print(f"Welcome user {self.username}")
+        print(f"Welcome user {username()}")
 
 
 
