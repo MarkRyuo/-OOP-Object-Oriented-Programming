@@ -34,10 +34,6 @@ class main :
 
 class Username(main):
 
-    def __init__(self, username) :
-        def __init__(self) :
-            pass
-
     def welcoming(self) :
         print(f"Welcome user {self.username}")
 
@@ -58,7 +54,7 @@ def main() :
 
 # main() 
 
-User = Username(Username) # * Call the subclass Username
+User = Username() # * Call the subclass Username
 User.username()
 
 User.welcoming()
