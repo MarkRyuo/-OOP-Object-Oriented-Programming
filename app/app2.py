@@ -16,4 +16,8 @@ class main :
 
         while True :
 
-            _username = input("Enter your username: ")
+            _username = input("Enter your username: ") 
+
+            if username.isdigit() :
+                if username :
+                    print(f"Unsupported username")
