@@ -34,10 +34,9 @@ class Bicycle(main) :
     pedals = 2 
 
 
-car = main()
-cr = Car()
+car = Car()
 car.go()
-print(f"The car have {cr.wheels} wheels")
+print(f"The car have {car.wheels} wheels")
 
 
 
