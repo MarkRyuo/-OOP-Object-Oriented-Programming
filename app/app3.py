@@ -31,7 +31,7 @@ class Username(main): # * Conrete ``
                 if username :
                     print(f"Unsupported username, Try Again!")
             else :
-                print(f"Loading Username.....")
+                print(f"Loading Username......")
                 break
 
         return username
