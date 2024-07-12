@@ -21,7 +21,7 @@ class Car(main) : # * For java we need extend to Inherit the parent. In python t
 
     # * Sub-class 
 
-    def Wheels(self):
+    def wheels(self):
         return 4
     
     def doors(self) :
