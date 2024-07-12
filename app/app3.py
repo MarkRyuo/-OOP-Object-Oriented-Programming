@@ -55,6 +55,5 @@ def main() :
 # main() 
 
 User = Username() # * Call the subclass Username
-User.username()
 
 print(f"Welcome user: {User.username()}")
