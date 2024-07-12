@@ -42,3 +42,5 @@ class Username(main) :
 
 
 
+User = Username()
+User.username()
