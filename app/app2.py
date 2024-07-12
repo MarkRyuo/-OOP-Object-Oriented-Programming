@@ -32,7 +32,7 @@ class main :
         pass
 
 
-class Username(main) :
+class Username(main) :User.username()
 
     def __init__(self):
         pass
@@ -46,7 +46,7 @@ class Username(main) :
 
 def main() :
 
-    User = Username()
+    User = Username() # * Call the subclass Username
     User.username()
 
     if User :
