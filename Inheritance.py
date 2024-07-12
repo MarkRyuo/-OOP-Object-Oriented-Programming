@@ -17,6 +17,7 @@ class main :
     def stop(self) :
         print("This Vehicle is stopped!")
 
+#* Car function is the Descendance of the Main
 class Car(main) : # * For java we need extend to Inherit the parent. In python this is how it works 
 
     # * Sub-class 

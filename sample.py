@@ -5,7 +5,7 @@
 class Routine :
     def __init__(self) :
         pass 
-
+        
     def _Routine(self) :
         self.open_social_media()
         self.open_games()
