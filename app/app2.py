@@ -26,7 +26,6 @@ class main :
                 break
 
         return username
-    _user = username()
 
     
     def user_password(self) :
@@ -36,7 +35,7 @@ class main :
 class Username(main) :
 
 
-    def welcoming(self, _user) :
+    def welcoming(self) :
         print(f"Welcome user {_user}")
 
 
