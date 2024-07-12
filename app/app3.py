@@ -12,7 +12,7 @@ class main :
         self.username()
         self.user_password()
     
-    def username(self) : # ! Method? 
+    def username(self) :
         pass
 
     
