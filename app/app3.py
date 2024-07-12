@@ -49,7 +49,7 @@ class Username(main): # * Conrete ``
                 user_attempt -= 1 
                 print("Unsupported password, Try Again!")
             else :
-                print("Loading.......")  #* If password is true not digits number
+                print("Loading Password.......")  #* If password is true not digits number
                 user_pass = False 
 
             if user_attempt == 0 : #* Logic for attempting password 
@@ -67,7 +67,7 @@ def main() :
     print(f"Welcome user: {User.username()}")
     print(f"Password : {User.user_password()}")
 
-    
+
 
 main() 
 
