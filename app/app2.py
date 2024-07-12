@@ -27,8 +27,6 @@ class main :
             
         return _username
 
-    User = username()
-
     
     def user_password(self) :
         pass
