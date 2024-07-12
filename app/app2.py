@@ -10,7 +10,7 @@ class main :
     
     def User(self) :
         self.username()
-        self.password()
+        self.user_password()
     
     def username(self) :
 
@@ -32,4 +32,6 @@ class main :
         pass
 
 
-class 
+class Username(main) :
+
+    
