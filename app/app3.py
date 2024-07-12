@@ -39,7 +39,7 @@ class Username(main): # * Conrete
     def user_password(self):
 
         user_attempt = 2 # * User attempt limit 2  
-        user_pass = True # * userpass boolean
+        user_pass = True # * user password boolean
 
         while user_pass:
 
@@ -50,7 +50,7 @@ class Username(main): # * Conrete
                 print("Unsupported password, Try Again!")
             else :
                 print("Loading.......")  #* If password is true not digits number
-                break
+                user_pass = False 
 
             if user_attempt == 0 : #* Logic for attempting password 
                 print("2 Attempt Block 🔐")
