@@ -16,7 +16,7 @@ class main :
 
         while True :
 
-            _username = input("Enter your username: ") 
+            username = input("Enter your username: ") 
 
             if username.isdigit() :
                 if username :
@@ -25,7 +25,7 @@ class main :
                 print(f"Loading.....")
                 break
             
-        return _username
+        return username
 
     
     def user_password(self) :
@@ -40,5 +40,16 @@ class Username(main) :
 
 
 
-User = Username()
-User.username()
+
+
+def main() :
+
+    User = Username()
+    User.username()
+
+    if User :
+        User.welcoming()
+    else:
+        pass
+    
+
