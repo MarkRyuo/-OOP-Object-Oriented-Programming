@@ -23,10 +23,12 @@ class main :
                     print(f"Unsupported username, Try Again!")
             else :
                 print(f"Loading.....")
+                break
             
         return _username
 
     
-    def user_password(self)
+    def user_password(self) :
+
 
 class 
