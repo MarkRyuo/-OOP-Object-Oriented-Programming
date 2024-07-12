@@ -24,8 +24,9 @@ class main :
             else :
                 print(f"Loading.....")
                 break
-            
+
         return username
+    _user = username()
 
     
     def user_password(self) :
