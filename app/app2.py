@@ -34,6 +34,8 @@ class main :
 
 class Username(main) :
 
+    username = username()
+
     def welcoming(self) :
         print(f"Welcome user {username}")
 
