@@ -3,7 +3,7 @@
 
 class main :
 
-    def __init__(self) :
+    def __init__(self) : # * Declaring Parent or Superclass 
         pass
 
     
