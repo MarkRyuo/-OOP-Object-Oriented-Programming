@@ -7,7 +7,7 @@ class main : # * Declaring Parent or Superclass
         pass
 
     
-    def User(self) : # ! Declaring Constructor 
+    def User(self) : # ! Declaring Constructor in a Method 
         self.username()
         self.user_password()
     
