@@ -1,9 +1,9 @@
 
 # Todo Create a user log using Inheritance 
 
-class main :
+class main : # * Declaring Parent or Superclass
 
-    def __init__(self) : # * Declaring Parent or Superclass 
+    def __init__(self) :  
         pass
 
     
