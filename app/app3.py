@@ -64,8 +64,7 @@ def main() : # * Declaring the main Function
 
     _User = Username() # * Call the subclass Username
     print(f"Welcome user: {_User.username()}")
-    print(f"Password : {User.user_password()}")
-
+    print(f"Password : {_User.user_password()}")
 
 
 main() 
