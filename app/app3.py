@@ -46,7 +46,7 @@ class Username(main): # * Conrete ``
             user_password = input("Enter your password: ")
 
             if user_password.isdigit() :
-                user_attempt -= 1 
+                user_attempt -= 1 # * To this Logic if this block of conditional statement user_attempt 
                 print("Unsupported password, Try Again!")
             else :
                 print("Loading Password.......")  #* If password is true not digits number
