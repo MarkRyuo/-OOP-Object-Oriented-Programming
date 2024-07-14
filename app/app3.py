@@ -7,7 +7,7 @@ class main : # * Declaring Parent or Superclass
         pass
 
     
-    def User(self) : # ! Abstract?
+    def User(self) : # ! Declaring 
         self.username()
         self.user_password()
     
