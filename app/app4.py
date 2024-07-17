@@ -31,7 +31,9 @@ class Calculator :
 
 class Addition(Calculator) : # * Child class 
 
-    while True :
+    def add_this(self) : # * Method 
+
+        while True :
 
         int addA = input("Enter a number A: ")
         int addB = input("Enter a number B: ")
@@ -40,9 +42,9 @@ class Addition(Calculator) : # * Child class
             return addA + addB
             break 
         else :
-            return false  
+            return false 
+        
     return addA, addB
-
 
 
 
@@ -51,4 +53,4 @@ class Addition(Calculator) : # * Child class
 
 def main() : # * Main function to run 
 
-
+add = Addition()
