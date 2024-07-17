@@ -37,11 +37,13 @@ class Addition(Calculator) : # * Child class
         int addB = input("Enter a number B: ")
 
         if addA and addB :
-            return addA + addB 
+            return addA + addB
+            break 
         else :
             return false 
             break 
     return addA, addB
+
 
 
 
