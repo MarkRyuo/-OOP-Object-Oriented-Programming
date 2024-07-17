@@ -29,6 +29,9 @@ class Calculator :
         pass
 
 
+class Addition(Calculator)
+
+
 
 
 
