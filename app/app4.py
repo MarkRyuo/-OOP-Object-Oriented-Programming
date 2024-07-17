@@ -54,8 +54,7 @@ class Addition(Calculator) : # * Child class
 def main() : # * Main function to run 
 
 add = Addition()
-
-
+add.add_this()
 
 
 main()
