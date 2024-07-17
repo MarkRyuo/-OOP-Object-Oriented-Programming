@@ -40,8 +40,7 @@ class Addition(Calculator) : # * Child class
             return addA + addB
             break 
         else :
-            return false 
-            break 
+            return false  
     return addA, addB
 
 
