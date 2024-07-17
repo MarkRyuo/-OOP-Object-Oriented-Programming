@@ -14,6 +14,7 @@ class Calculator :
         self.addition()
         self.multiplication()
         self.division()
+        self.subtraction()
 
 
 
