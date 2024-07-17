@@ -31,7 +31,9 @@ class Calculator :
 
 class Addition(Calculator) : # * Child class 
 
-    
+    while True :
+
+        int add_! = input("Enter a number to add: ")
 
 
 
