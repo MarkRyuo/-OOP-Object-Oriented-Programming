@@ -13,6 +13,7 @@ class Calculator :
     def calculate(self) :
         self.addition()
         self.multiplication()
+        self.division()
 
 
 
