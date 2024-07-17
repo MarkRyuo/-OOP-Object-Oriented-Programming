@@ -16,6 +16,9 @@ class Calculator :
         self.division()
         self.subtraction()
 
+    def addition(self) :
+        pass
+    
 
 
 
