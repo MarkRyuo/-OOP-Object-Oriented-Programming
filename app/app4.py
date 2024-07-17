@@ -33,8 +33,8 @@ class Addition(Calculator) : # * Child class
 
     while True :
 
-        int add_1 = input("Enter a number A: ")
-        int add_2 = input("Enter a number B: ")
+        int add_A = input("Enter a number A: ")
+        int add_B = input("Enter a number B: ")
 
 
 
