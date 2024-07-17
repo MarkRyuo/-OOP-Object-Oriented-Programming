@@ -22,6 +22,12 @@ class Calculator :
     def multiplacation(self) :
         pass
 
+    def division(self) :
+        pass
+
+    def subtractio(self) :
+        pass
+
 
 
 
