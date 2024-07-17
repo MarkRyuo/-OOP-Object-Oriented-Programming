@@ -29,7 +29,9 @@ class Calculator :
         pass
 
 
-class Addition(Calculator)
+class Addition(Calculator) : # * Child class
+
+
 
 
 
