@@ -19,6 +19,8 @@ class Calculator :
     def addition(self) :
         pass
     
+    def multiplacation(self) :
+        
 
 
 
