@@ -10,7 +10,7 @@ class Calculator :
     def __init__(self) :
         pass 
     
-    def calculate(self) : # * Constructor 
+    def Calculate(self) : # * Constructor 
         self.addition()
         self.multiplication()
         self.division()
