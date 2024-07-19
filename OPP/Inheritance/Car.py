@@ -7,3 +7,6 @@ class Car(Vehicle) :
     
     def go(self):
         print("The car is go!")
+    
+    def stop(self):
+        print("The car is stopped")
