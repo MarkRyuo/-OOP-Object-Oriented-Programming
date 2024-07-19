@@ -9,6 +9,6 @@ class Car(Vehicle) :
         print(f"The car is go!, {self.name}")
     
     def stop(self):
-        print("The car is stopped!")
+        print(f"The car is stopped!, {self.types}")
 
 
