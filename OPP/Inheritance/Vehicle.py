@@ -9,12 +9,12 @@ class Vehicle :
         self.name = name 
         self.types = types
     
-    def go(){
+    def go():
         print("Gooooo")
-    }
     
-    def stop(){
+    
+    def stop() :
         print("Stoppppp")
-    }
+    
         
     
