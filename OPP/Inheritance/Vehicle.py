@@ -8,5 +8,7 @@ class Vehicle :
     def __init__(self, go, stop) :
         self.go = go 
         self.stop = stop
+    
+    def 
         
     
