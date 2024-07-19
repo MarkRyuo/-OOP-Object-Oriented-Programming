@@ -5,11 +5,6 @@ class Vehicle :
     
     #* Superclass
     
-    def __init__(self) :
-        pass
-    
-    def Vehicle(self): 
-        self.go() ;
-        self.stop() ;
-    
+    def __init__(self, go, stop) :
+        
     
