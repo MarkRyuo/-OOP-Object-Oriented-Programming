@@ -3,7 +3,7 @@ from Vehicle import Vehicle
 class Car(Vehicle) :
     
     def __init__(self, name, types):
-        super(self, go, stop)
+        super(self, name, types)
     
     def go(self):
         print("The car is go!")
