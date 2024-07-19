@@ -2,7 +2,7 @@ from Vehicle import Vehicle
 
 class Car(Vehicle) :
     
-    def __init__(self, go, stop):
+    def __init__(self, name, types):
         super(self, go, stop)
     
     def go(self):
