@@ -6,7 +6,7 @@ class Car(Vehicle) :
         super(self, name, types)
     
     def go(self):
-        print("The car is go!")
+        print(f"The car is go!, {self.name}")
     
     def stop(self):
         print("The car is stopped!")
