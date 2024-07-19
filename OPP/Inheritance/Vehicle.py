@@ -5,9 +5,9 @@ class Vehicle :
     
     #* Superclass
     
-    def __init__(self, go, stop) :
-        self.go = go 
-        self.stop = stop
+    def __init__(self, name, type) :
+        self.name = name 
+        self.type = stop
     
     def go(self) :
         pass 
