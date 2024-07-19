@@ -9,6 +9,7 @@ class Vehicle :
         self.go = go 
         self.stop = stop
     
-    def 
+    def go(self) :
+        
         
     
