@@ -11,3 +11,5 @@ class Vehicle :
     def Vehicle(self): 
         self.go() ;
         self.stop() ;
+    
+    
