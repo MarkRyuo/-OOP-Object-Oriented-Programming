@@ -12,5 +12,9 @@ class Vehicle :
     def go(){
         print("Hello")
     }
+    
+    def stop(){
+        print("Stoppppp")
+    }
         
     
