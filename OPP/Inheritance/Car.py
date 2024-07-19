@@ -9,4 +9,4 @@ class Car(Vehicle) :
         print("The car is go!")
     
     def stop(self):
-        print("The car is stopped")
+        print("The car is stopped!")
