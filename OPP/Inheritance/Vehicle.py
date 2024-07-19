@@ -9,8 +9,7 @@ class Vehicle :
         self.name = name 
         self.types = types
     
-    def go(self) :
-        pass 
+    
     
     def stop(self) :
         pass
