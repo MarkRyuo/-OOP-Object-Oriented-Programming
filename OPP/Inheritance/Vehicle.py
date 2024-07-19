@@ -13,6 +13,6 @@ class Vehicle :
         pass 
     
     def stop(self) :
-        
+        pass
         
     
