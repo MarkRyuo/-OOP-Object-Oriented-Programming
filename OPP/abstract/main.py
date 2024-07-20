@@ -6,3 +6,5 @@ def main() {
     dog.speak()
     
 }
+
+main
