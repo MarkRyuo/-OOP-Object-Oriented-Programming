@@ -1,6 +1,6 @@
+from Pets import Pets
 
-
-class Dog() :
+class Dog(Pets) :
     
     def speak(self) :
         print("AWW AWW")
