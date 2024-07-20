@@ -14,7 +14,7 @@ class Vehicle :
     
     
     def stop(self) :
-        print("Stoppppp")
+        print("superclass stop")
     
         
     
