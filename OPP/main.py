@@ -36,10 +36,10 @@ class Niyari(Person) :
     def get_name(self) :
         print(f"Hello {self.name} desu! ")
     
-    def age(self) :
+    def get_age(self) :
         print(f"Age is {self.age}")
     
-    def gender(self) :
+    def get_gender(self) :
         print(f"I'm a {self.gender}")
 
 
