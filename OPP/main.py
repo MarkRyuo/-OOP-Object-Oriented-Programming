@@ -16,10 +16,10 @@ class Person:
         self.name = name 
         self.age = age 
     
-    def name(self) :
+    def get_name(self) :
         pass 
     
-    def age(self) :
+    def get_age(self) :
         pass
 
 class Niyari(Person) : 
@@ -33,7 +33,7 @@ class Niyari(Person) :
     
     # * Creating a method 
     
-    def name(self) :
+    def get_name(self) :
         print(f"Hello {self.name} desu! ")
     
     def age(self) :
