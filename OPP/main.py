@@ -53,6 +53,3 @@ def main() :
     niyari.get_gender()
 
 main()
-
-
-
