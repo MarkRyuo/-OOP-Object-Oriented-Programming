@@ -49,7 +49,7 @@ def main() :
     niyari = Niyari("Niyari", 19, "Female")
     
     niyari.get_name()
-    niyari.age()
-    niyaru.gender()
+    niyari.get_age()
+    niyaru.get_gender()
 
 main()
