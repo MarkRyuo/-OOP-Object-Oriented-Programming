@@ -1,5 +1,6 @@
 from Dog import Dog 
 from Pets import Pets
+from Cat import Cat
 
 def main() :
     
