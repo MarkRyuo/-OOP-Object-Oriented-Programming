@@ -9,7 +9,7 @@ class Vehicle :
         self.name = name 
         self.types = types
     
-    def go(self):
+    def go(self): # * Method 
         print("Gooooo")
     
     
