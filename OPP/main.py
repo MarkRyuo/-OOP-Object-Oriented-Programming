@@ -47,6 +47,7 @@ class Niyari(Person) :
 def main() :
     
     niyari = Niyari("Niyari", 19, "Female")
+    
     niyari.name()
     niyari.age()
     niyaru.gender()
