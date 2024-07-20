@@ -26,7 +26,9 @@ class Niyari(Person) :
     
     #* This is the subclass inherit the superclass(Person)
 
-    def __init__(self, name,age,gender) :
+    
+    
+    def __init__(self, name,int(age),gender) :
         super.__init__(name,age) 
         self.gender = gender
     
