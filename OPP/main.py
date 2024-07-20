@@ -28,7 +28,7 @@ class Niyari(Person) :
 
     
     
-    def __init__(self, name,int(age),gender) :
+    def __init__(self, name,age,gender) :
         super.__init__(name,age) 
         self.gender = gender
     
