@@ -7,6 +7,6 @@ class Pets(ABC):
     
     @abstractmethod
     
-    def (self) :
+    def spaek(self) :
         pass
         
