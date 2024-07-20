@@ -38,5 +38,16 @@ class Niyari(Person) :
     
     def age(self) :
         print(f"Age is {self.age}")
+    
+    def gender(self) :
+        print(f"I'm a {this.gender}")
+
+
+
+def main() :
+    
+    niyari = Niyari("Niyari", 19)
+    niyari.name()
+    niyari.age()
         
         
