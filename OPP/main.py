@@ -68,7 +68,7 @@ class Niyari(Person) :
         print(f"Age is {self.age}")
     
     def gender(self) :
-        print(f"I'm a {this.gender}")
+        print(f"I'm a {self.gender}")
 
 
 
