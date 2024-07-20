@@ -27,10 +27,36 @@ class Niyari(Person) :
     #* This is the subclass inherit the superclass(Person)
 
     
+# ? 4 OOP Pillars
+# * Inheritance  
+# * Abstract 
+# * Polymorphism
+# * Encapsulation 
+
+
+# Todo create a simple Inheritance 
+
+class Person() :
     
-    def __init__(self,name,age,gender) :
-        super().__init__(name,age) 
-        self.gender = gender
+    #* This is the Superclass
+    
+    def __init__(self,name,age) :
+        self.name = name 
+        self.age = age 
+    
+    def name(self) :
+        pass 
+    
+    def age(self) :
+        pass
+
+class Niyari(Person) : 
+    
+    #* This is the subclass inherit the superclass(Person)
+
+    def __init__(self, name,age,gender) :
+        super.__init__(name,age) 
+        self.gender = "Female"
     
     
     # * Creating a method 
@@ -48,11 +74,10 @@ class Niyari(Person) :
 
 def main() :
     
-    niyari = Niyari("Niyari", 19, "Female")
+    niyari = Niyari("Niyari", 19)
     niyari.name()
     niyari.age()
     niyaru.gender()
-
 
 main()
         
