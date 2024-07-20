@@ -50,5 +50,8 @@ def main() :
     niyari.name()
     niyari.age()
     niyaru.gender()
+
+
+main()
         
         
