@@ -29,7 +29,7 @@ class Niyari(Person) :
     
     
     def __init__(self, name,age,gender) :
-        super.__init__(name,age) 
+        super().__init__(name,age) 
         self.gender = gender
     
     
