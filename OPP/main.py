@@ -37,6 +37,6 @@ class Niyari(Person) :
         print(f"Hello {self.name} desu! ")
     
     def age(self) :
-        print
+        print(f"Age is {self.age}")
         
         
