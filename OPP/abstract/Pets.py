@@ -8,5 +8,5 @@ class Pets(ABC):
     @abstractmethod
     
     def speak(self) :
-        pass
+        print("This is Pets")
     
