@@ -50,6 +50,6 @@ def main() :
     
     niyari.get_name()
     niyari.get_age()
-    niyaru.get_gender()
+    niyari.get_gender()
 
 main()
