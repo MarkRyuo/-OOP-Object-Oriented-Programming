@@ -16,11 +16,11 @@ class Person:
         self.name = name 
         self.age = age 
     
-    def name(self) :
-        pass 
+    # def name(self) :
+    #     pass 
     
-    def age(self) :
-        pass
+    # def age(self) :
+    #     pass
 
 class Niyari(Person) : 
     
