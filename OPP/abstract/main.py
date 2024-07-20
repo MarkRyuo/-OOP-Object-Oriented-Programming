@@ -6,7 +6,7 @@ def main() :
     
     dog = Dog()
     dog.speak()
-    
+
     
     cat = Cat()
     cat.speak()
