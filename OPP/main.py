@@ -28,8 +28,11 @@ class Niyari(Person) :
 
     def __init__(self, name,age,gender) :
         super.__init__(name,age) 
-        self.gender = gender 
+        self.gender = "Female"
     
     
     # * Creating a method 
+    
+    def name(self) :
+        print(f"Hello {self.name} desu! ")
         
