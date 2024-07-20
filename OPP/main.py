@@ -52,5 +52,3 @@ def main() :
     niyaru.gender()
 
 main()
-        
-        
