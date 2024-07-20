@@ -10,8 +10,8 @@ def main() :
     pets = Pets()
     pets.speak()
     
-    # cat = Cat()
-    # cat.speak()
+    cat = Cat()
+    cat.speak()
     
 
 main()
