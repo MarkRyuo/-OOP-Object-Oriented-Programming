@@ -10,7 +10,7 @@ class Vehicle :
         self.types = types
     
     def go(self): # * Method 
-        print("Hi im superclass") 
+        print("Hi im superclass go ") 
     
     
     def stop(self) :
