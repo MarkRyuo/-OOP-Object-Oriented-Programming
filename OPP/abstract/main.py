@@ -1,10 +1,8 @@
 from Dog import Dog 
 
-def main() {
+def main() :
     
-    dog = Dog()
-    dog.speak()
-    
-}
 
-main
+    
+
+main()
