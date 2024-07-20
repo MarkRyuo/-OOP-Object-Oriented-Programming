@@ -1,5 +1,6 @@
 
-# * Create a simple inheritance 
+# * Create a simple inheritance
+# * Vehicle is the superclass and the Car is the subclass  
 
 class Vehicle :
     
@@ -16,5 +17,4 @@ class Vehicle :
     def stop(self) :
         print("superclass stop")
     
-        
     
