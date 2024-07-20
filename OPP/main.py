@@ -36,7 +36,7 @@ class Niyari(Person) :
 
 # Todo create a simple Inheritance 
 
-class Person() :
+class Person:
     
     #* This is the Superclass
     
